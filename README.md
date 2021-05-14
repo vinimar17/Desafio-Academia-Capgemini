@@ -1,5 +1,6 @@
 # Desafio-Academia-Capgemini
 Parte 2 - Desafio de Programação - Academia Capgemini
+Nome: Marcus Vinicius Martins Naves
 
 Ao trabalhar na parte 2 deste desafio, me deparei com algumas dificuldades, pois não tenho experiência com esse tipo de problema. Aqui relatarei como eu faria a minha solução, conforme o entendimento que eu tive do que é solicitado pelo desafio.
 
