@@ -43,7 +43,7 @@ A query SQL acima pode ser implementado no MySQL, por exemplo (foi onde eu o imp
 
 Anexo: Script do programa "calculadora.py":
 
-# Entrada: valor investido em reais
+"# Entrada: valor investido em reais
 valor = float(input('Digite o valor do investimento em reais: '))
 while valor < 0:
     valor = float(input('Valor inválido! Digite o valor do investimento em reais: '))
@@ -72,5 +72,5 @@ for n in range(0, 3):   # Máximo de 4 compartilhamentos em sequência
 print(f'Quantidade de cliques no anúncio: {round(sum(clicks))}.')
 print(f'Quantidade de compartilhamentos: {round(sum(comp))}')
 print(f'Projeção de quantidade máxima de pessoas que visualizarão o anúncio:'
-      f' {round(vis_orig + sum(vis_comp))} pessoas.')
+      f' {round(vis_orig + sum(vis_comp))} pessoas.')"
       
